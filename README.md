@@ -9,6 +9,7 @@ WWDC 2016 scholarship app submission presenting me, my life and recent projects.
 
 [Direct link to Youtube](https://youtu.be/7It2i-9BCp8)
 
+I also wrote a few words about it on my blog [over here] (https://anerma.de/blog/wwdc-2016-my-submission).
 
 ##License
 Copyright 2016 Andreas Neusuess
