@@ -3,7 +3,7 @@
 //  AndreasNeusuess
 //
 //  Created by Andreas Neusüß on 24.12.15.
-//  Copyright © 2015 Anerma. All rights reserved.
+//  Copyright © 2016 Andreas Neusuess. All rights reserved.
 //
 
 import UIKit
