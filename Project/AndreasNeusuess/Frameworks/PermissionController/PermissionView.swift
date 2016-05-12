@@ -3,7 +3,7 @@
 //  ClubNews
 //
 //  Created by Andreas Neusüß on 16.05.15.
-//  Copyright (c) 2015 Cocoawah. All rights reserved.
+//  Copyright © 2016 Andreas Neusuess. All rights reserved.
 //
 
 import UIKit
