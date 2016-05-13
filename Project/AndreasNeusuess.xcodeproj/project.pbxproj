@@ -235,9 +235,9 @@
 		A1BC00681BAB15D3005C5DBF /* PicturePresentationCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PicturePresentationCollectionViewController.swift; sourceTree = "<group>"; };
 		A1BC006A1BAB1688005C5DBF /* PicturePresentationCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PicturePresentationCollectionViewCell.swift; sourceTree = "<group>"; };
 		A1BF9C621CCBDCC700EF9A0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Education.storyboard; sourceTree = "<group>"; };
-		A1BF9C641CCBDD1300EF9A0B /* iOSApps.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = iOSApps.storyboard; sourceTree = "<group>"; };
+		A1BF9C641CCBDD1300EF9A0B /* iOSApps.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = iOSApps.storyboard; path = Base.lproj/iOSApps.storyboard; sourceTree = "<group>"; };
 		A1BF9C671CCBDD4100EF9A0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/AboutMe.storyboard; sourceTree = "<group>"; };
-		A1BF9C691CCBDD7200EF9A0B /* Life.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Life.storyboard; sourceTree = "<group>"; };
+		A1BF9C691CCBDD7200EF9A0B /* Life.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Life.storyboard; path = Base.lproj/Life.storyboard; sourceTree = "<group>"; };
 		A1BF9C6C1CCBDE4700EF9A0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Goals.storyboard; sourceTree = "<group>"; };
 		A1C4E3591BB18225005503AB /* SkillsCollectionViewCell5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SkillsCollectionViewCell5.swift; sourceTree = "<group>"; };
 		A1C4E35B1BB1822D005503AB /* SkillsCollectionViewCell6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SkillsCollectionViewCell6.swift; sourceTree = "<group>"; };
