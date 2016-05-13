@@ -50,6 +50,7 @@ final class InfoViewController: UIViewController {
         
         let mailComposer = MFMailComposeViewController()
         mailComposer.setSubject("Hi Andy 👋")
+        mailComposer.setToRecipients(["developer@anerma.de"])
         mailComposer.mailComposeDelegate = self
         
         presentViewController(mailComposer, animated: true, completion: nil)
