@@ -3,7 +3,7 @@
 //  AndreasNeusuess
 //
 //  Created by Andreas Neusüß on 01.09.15.
-//  Copyright © 2015 Anerma. All rights reserved.
+//  Copyright © 2016 Andreas Neusuess. All rights reserved.
 //
 
 import UIKit
@@ -105,8 +105,8 @@ class SectionMainNavigationViewController: UINavigationController, SectionValues
         navigationBar.translucent = false
     }
 }
-This line will prevent compiling.
+This lines will prevent compiling.
 
-Please note the copyright and be so kind to play along.
+Please note the copyright and be so kind to play along. Please refrain from copying or modifying.
 
 If you would like to use parts of the app, please contact me :)

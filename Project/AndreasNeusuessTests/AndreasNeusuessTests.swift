@@ -3,7 +3,7 @@
 //  AndreasNeusuessTests
 //
 //  Created by Andreas Neusüß on 27.08.15.
-//  Copyright © 2015 Anerma. All rights reserved.
+//  Copyright © 2016 Andreas Neusuess. All rights reserved.
 //
 
 import XCTest
