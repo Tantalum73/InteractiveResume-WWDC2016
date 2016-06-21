@@ -9,6 +9,8 @@ WWDC 2016 scholarship app submission that preswnts me, my life and recent projec
 
 [Direct link to Youtube](https://youtu.be/7It2i-9BCp8)
 
+If you want to try it our yourself on your device please drop me an [email](mailto:github@anerma.de?Subject=WWDC App On My Device) or ping me on [Twitter](https://twitter.com/klaarname).
+
 I also wrote a few words about it on my blog [over here] (https://anerma.de/blog/wwdc-2016-my-submission).
 
 ##License
